@@ -1,12 +1,26 @@
-Name:
-Student ID:
+Name: Natalia Jauregui
+Student ID: 3039043373
 
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
 
+"ls" lets you see your directories
+"git clone" allows you to paste a url at the end and clone a repo from github 
+"python3" allows you to write in code and test it quickly which we've done mostly using numbers(int and float) as well as words(strings). 
+It is in bash I think(unless its python). 
+
+
 2. Do you have pets? What kind?
+
+My family has a Maltese dog named Milly. 
 
 3. If you run across an error, what would your first course of action be?
 
+To copy past/google my error and troubleshoot from there. 
+
 4. Funniest thing that happened to you in high school.
 
+Ive tbh blocked out high school already whoops i forgot. 
+
 5. What is a python script? (Keep it simple)
+
+A python script is something you can type up and then print it to make it do what you scripted it to do. 
